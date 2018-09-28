@@ -23,9 +23,10 @@ You somehow get a hold of the futuristic maze, but it is very confusing and has 
 
 ## Install instructions
 
-Mac: Unzip the folder and then run the application file.
+Download can be found on [itch.io](https://cwru-eecs290.itch.io/team-15-project).
 
-Windows: Unzip the folder and then run the executable file. Do not delete or move other files in the folder.
+Mac: Unzip the folder and then run the application file.
+<br> Windows: Unzip the folder and then run the executable file. Do not delete or move other files in the folder.
 
 
 ## Leave a comment
