@@ -21,19 +21,19 @@ You somehow get a hold of the futuristic maze, but it is very confusing and has 
 | Inputs	        | Mouse            |
 
 
-### Install instructions
+## Install instructions
 
 Mac: Unzip the folder and then run the application file.
 
 Windows: Unzip the folder and then run the executable file. Do not delete or move other files in the folder.
 
 
-### Leave a comment
+## Leave a comment
 
 [Log in with itch.io](https://itch.io/login?return_to=https%3A%2F%2Fcwru-eecs290.itch.io%2Fteam-15-project) to leave a comment.
 
 
-### Preview
+## Preview
 
 ![Splash Screen](https://img.itch.zone/aW1hZ2UvMjUyMjI2LzEyMTEwMDQucG5n/794x1000/hgLawF.png)
 ![Background](https://img.itch.zone/aW1hZ2UvMjUyMjI2LzEyMTA5OTEucG5n/794x1000/jVdO8e.png)
